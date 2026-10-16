@@ -1,4 +1,3 @@
-"""Пакет geometry: плоские и пространственные фигуры."""
 from .flat import circle_area, triangle_area
 from .solid import sphere_volume, cube_volume
 
